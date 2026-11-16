@@ -1,0 +1,5 @@
+{
+  "name": "claude-cas-lab-background",
+  "owner": { "name": "LittleHenderson" },
+  "plugins": [{ "name": "cas-lab-look", "source": "./" }]
+}
